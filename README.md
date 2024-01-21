@@ -2,15 +2,24 @@
 
 This is an app that displays cryptocurrency market updates.
 
-## Getting Started
+## App(version 1.0.0) - screenshots
 
-This project is a starting point for a Flutter application.
+# Start Screen
+![s1](https://github.com/brunott98/crypto2b/assets/104589217/00ba6d4a-5c63-49ee-b2ca-59cec1825d29)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Coin Selection Screen
+![s2](https://github.com/brunott98/crypto2b/assets/104589217/21a3e4d4-6faa-4794-8af2-a35422deb93c)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Coin Data Screen
+![s3](https://github.com/brunott98/crypto2b/assets/104589217/434a4983-f858-4a55-838b-77b87f155fb0)
+
+
+## Crypto2b - UML classes 
+
+
+
+
+
+
+
