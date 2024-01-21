@@ -15,7 +15,7 @@ This is an app that displays cryptocurrency market updates.
 ![s3](https://github.com/brunott98/crypto2b/assets/104589217/434a4983-f858-4a55-838b-77b87f155fb0)
 
 
-## Crypto2b - UML classes 
+
 
 
 
