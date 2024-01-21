@@ -15,7 +15,7 @@ class CoinInfoViewModel {
   String getSymbol(String coinName) {
     switch (coinName) {
       case CoinConstants.bnbCoinName:
-        return 'BTCUSDT';
+        return 'BNBUSDT';
       case CoinConstants.btcCoinName:
         return 'BTCUSDT';
       case CoinConstants.ethCoinName:
