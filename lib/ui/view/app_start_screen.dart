@@ -4,12 +4,8 @@ import 'package:crypto2b/navigation/crypto2b_navigation.dart';
 import 'package:crypto2b/ui/theme/themes.dart';
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const AppStartScreen());
-}
-
-class AppStartScreen extends StatelessWidget {
-  const AppStartScreen({Key? key}) : super(key: key);
+class AppStartScreenLaunch extends StatelessWidget {
+  const AppStartScreenLaunch({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
